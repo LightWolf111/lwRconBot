@@ -1,0 +1,2 @@
+# lwRconBot
+ Rcon Bot discord
